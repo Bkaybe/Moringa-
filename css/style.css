@@ -23,3 +23,11 @@ p{
     text-align: center;
     font-style: italic;
 }
+
+#header{
+    color: rgb(126, 115, 21);
+}
+
+.wrapper{
+    color: blue;
+}
