@@ -4,13 +4,22 @@ body{
 }
 h1{
     color: #16c9ab;
+    text-align: center;
+    font-style: italic;
 }
 
 h6{
     font-size: medium;
+    text-align: center;
+
     
 }
 
 img{
     border-radius: 80%;
+    align-items: center;
+}
+p{
+    text-align: center;
+    font-style: italic;
 }
